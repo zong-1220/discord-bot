@@ -1,0 +1,11 @@
+"Welcome_channel" = 自我介紹的頻道
+"level_channel" = 升級頻道
+"role_channel" = 每個月一次公告的身分組頻道
+"punch_channel" = 打卡頻道 
+
+
+"stranger_role_id" = stranger 身分組 
+"tourist_role_id" = 遊客 身分組
+"citizec_role_id" = 市民 身分組
+"local_role_id" = 地方領袖 身分組
+"powerful_role_id" = 權望人士 身分組
